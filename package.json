@@ -16,7 +16,7 @@
     "url": "https://github.com/kriti-d/existingPRtest/issues"
   },
   "dependencies": {
-    "adm-zip": "0.4.7",
+    "adm-zip": "0.4.11",
     "lodash": "4.17.20"
   },
   "homepage": "https://github.com/kriti-d/existingPRtest#readme"
